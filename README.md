@@ -1,2 +1,2 @@
-# NSU-FlappyBird
-Flappy Bird Game implementation with logisim and CDM
+# NSU-GameOfLife
+Game of life implementation with logisim and CDM
